@@ -9,7 +9,7 @@ tinymce.init({
 });
 ```
 
-## Initialization Example 2
+### Initialization Example 2
 
 ```javascript
 tinyMCE.init({
