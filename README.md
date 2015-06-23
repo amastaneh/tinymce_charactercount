@@ -20,3 +20,11 @@ tinyMCE.init({
         plugins : "charactercount"
 });
 ```
+### License
+
+The project is dedicated to public and is free for all uses, commercial or otherwise.
+Supported by [Web Design Iran](http://webdesigniran.com)
+
+این پروژه تحت حمایت شرکت 
+[طراحی وب ایران](http://webdesigniran.com)
+ بوده و برای استفاده تجاری یا غیر تجاری، رایگان است
